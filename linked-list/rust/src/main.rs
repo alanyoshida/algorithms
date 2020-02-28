@@ -1,5 +1,7 @@
 mod first;
+//use first::execute_first;
 
 fn main() {
-    println!("Linked List");
+    println!("First Linked List");
+    first::execute_first();
 }
