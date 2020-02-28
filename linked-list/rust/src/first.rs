@@ -87,7 +87,7 @@ mod test {
 }
 
 // #![allow(unused_variables)]
-pub fn execute_first() {
+pub fn execute() {
 
   let mut list = List::new();
   // Populate list
